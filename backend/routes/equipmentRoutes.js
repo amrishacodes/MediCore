@@ -1,0 +1,1 @@
+// Route file for equipmentRoutes.js
